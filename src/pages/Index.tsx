@@ -5,6 +5,7 @@ import Gallery from "@/components/Gallery";
 import Reviews from "@/components/Reviews";
 import Features from "@/components/Features";
 import ContactSection from "@/components/ContactSection";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -16,6 +17,7 @@ const Index = () => {
       <Reviews />
       <Features />
       <ContactSection />
+      <Footer />
     </div>
   );
 };

@@ -1,27 +1,27 @@
 const Gallery = () => {
   const galleryImages = [
     {
-      url: "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      url: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=600&q=80",
       alt: "Бариста готовит кофе",
     },
     {
-      url: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      url: "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=600&q=80",
       alt: "Уютный интерьер",
     },
     {
-      url: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      url: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80",
       alt: "Свежая выпечка",
     },
     {
-      url: "https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      url: "https://images.unsplash.com/photo-1497515114629-f71d768fd07c?w=600&q=80",
       alt: "Латте-арт",
     },
     {
-      url: "https://images.unsplash.com/photo-1559496417-e7f25cb247cd?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      url: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
       alt: "Гости за столиком",
     },
     {
-      url: "https://images.unsplash.com/photo-1442512595331-e89e73853f31?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      url: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=600&q=80",
       alt: "Кофейные зерна",
     },
   ];
